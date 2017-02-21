@@ -1,0 +1,25 @@
+2016-12-02 21:29:26,553 Alford server started at port 12480
+2016-12-02 21:29:36,097 Connection made. Total: 0
+2016-12-02 21:29:52,642 Line received: IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+2016-12-02 21:29:52,642 IAMAT Response: AT Alford +1329108.2507 IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+2016-12-02 21:29:52,643 Update sent from Alford to Hamilton
+2016-12-02 21:29:52,643 Update sent from Alford to Welsh
+2016-12-02 21:29:52,647 Connection from client: Alford to server: Hamilton failed.
+2016-12-02 21:29:52,647 Connection from client: Alford to server: Welsh failed.
+2016-12-02 21:30:02,689 Line received: WHATSAT kiwi.cs.ucla.edu 10 5
+2016-12-02 21:30:02,689 Google places URL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=kiwi.cs.ucla.edu&radius=10&sensor=false&key=AIzaSyCpHbB0_ypQx-r1MLa9b7mjfP48AM6jIoQ
+2016-12-02 21:30:02,704 WHATSAT request failure: WHATSAT kiwi.cs.ucla.edu 10 5
+2016-12-02 21:30:04,329 Line received: 
+2016-12-02 21:30:04,329 Invalid command: 
+2016-12-02 21:30:06,162 Line received: 
+2016-12-02 21:30:06,162 Invalid command: 
+2016-12-02 21:30:27,228 Line received: WHATSAT kiwi.cs.ucla.edu 10 5
+2016-12-02 21:30:27,228 Google places URL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=kiwi.cs.ucla.edu&radius=10&sensor=false&key=AIzaSyCpHbB0_ypQx-r1MLa9b7mjfP48AM6jIoQ
+2016-12-02 21:30:27,233 WHATSAT request failure: WHATSAT kiwi.cs.ucla.edu 10 5
+2016-12-02 21:30:28,959 Line received: WHATSAT kiwi.cs.ucla.edu 10 5
+2016-12-02 21:30:28,959 Google places URL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=kiwi.cs.ucla.edu&radius=10&sensor=false&key=AIzaSyCpHbB0_ypQx-r1MLa9b7mjfP48AM6jIoQ
+2016-12-02 21:30:28,963 WHATSAT request failure: WHATSAT kiwi.cs.ucla.edu 10 5
+2016-12-02 21:30:29,359 Line received: WHATSAT kiwi.cs.ucla.edu 10 5
+2016-12-02 21:30:29,359 Google places URL: https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=kiwi.cs.ucla.edu&radius=10&sensor=false&key=AIzaSyCpHbB0_ypQx-r1MLa9b7mjfP48AM6jIoQ
+2016-12-02 21:30:29,363 WHATSAT request failure: WHATSAT kiwi.cs.ucla.edu 10 5
+2016-12-02 21:33:53,500 Connection lost. Current connections: 0
